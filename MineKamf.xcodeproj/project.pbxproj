@@ -15,7 +15,8 @@
 		40505B602A08829B005ECD09 /* MineKamfUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B5F2A08829B005ECD09 /* MineKamfUITests.swift */; };
 		40505B622A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B612A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift */; };
 		40505B6F2A09F276005ECD09 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B6E2A09F276005ECD09 /* SwiftUIView.swift */; };
-		4061F5F82A0B3E940076FEDC /* ShootHimDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */; };
+		4061F6002A0B43EA0076FEDC /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = 4061F5FF2A0B43EA0076FEDC /* .gitattributes */; };
+		4061F6022A0B43F30076FEDC /* ShootHimDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		40505B612A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineKamfUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		40505B6E2A09F276005ECD09 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShootHimDown.swift; sourceTree = "<group>"; };
+		4061F5FF2A0B43EA0076FEDC /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +80,7 @@
 		40505B382A08829A005ECD09 = {
 			isa = PBXGroup;
 			children = (
-				4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */,
+				4061F5FF2A0B43EA0076FEDC /* .gitattributes */,
 				40505B432A08829A005ECD09 /* MineKamf */,
 				40505B542A08829B005ECD09 /* MineKamfTests */,
 				40505B5E2A08829B005ECD09 /* MineKamfUITests */,
@@ -102,6 +104,7 @@
 				40505B442A08829A005ECD09 /* MineKamfApp.swift */,
 				40505B462A08829A005ECD09 /* ContentView.swift */,
 				40505B6E2A09F276005ECD09 /* SwiftUIView.swift */,
+				4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */,
 				40505B482A08829A005ECD09 /* Assets.xcassets */,
 				40505B4A2A08829A005ECD09 /* Preview Content */,
 			);
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40505B4C2A08829A005ECD09 /* Preview Assets.xcassets in Resources */,
+				4061F6002A0B43EA0076FEDC /* .gitattributes in Resources */,
 				40505B492A08829A005ECD09 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,7 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4061F5F82A0B3E940076FEDC /* ShootHimDown.swift in Sources */,
+				4061F6022A0B43F30076FEDC /* ShootHimDown.swift in Sources */,
 				40505B472A08829A005ECD09 /* ContentView.swift in Sources */,
 				40505B452A08829A005ECD09 /* MineKamfApp.swift in Sources */,
 				40505B6F2A09F276005ECD09 /* SwiftUIView.swift in Sources */,
