@@ -24,6 +24,8 @@ struct ContentView: View {
                     .font(.subheadline)
                 Text("Of Here")
                     .font(.subheadline)
+                Text("Of Here")
+                    .font(.subheadline)
             }
         }
         .padding(100)
