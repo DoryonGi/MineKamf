@@ -15,6 +15,7 @@
 		40505B602A08829B005ECD09 /* MineKamfUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B5F2A08829B005ECD09 /* MineKamfUITests.swift */; };
 		40505B622A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B612A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift */; };
 		40505B6F2A09F276005ECD09 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40505B6E2A09F276005ECD09 /* SwiftUIView.swift */; };
+		4061F5F82A0B3E940076FEDC /* ShootHimDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		40505B5F2A08829B005ECD09 /* MineKamfUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineKamfUITests.swift; sourceTree = "<group>"; };
 		40505B612A08829B005ECD09 /* MineKamfUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MineKamfUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		40505B6E2A09F276005ECD09 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShootHimDown.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		40505B382A08829A005ECD09 = {
 			isa = PBXGroup;
 			children = (
+				4061F5F72A0B3E940076FEDC /* ShootHimDown.swift */,
 				40505B432A08829A005ECD09 /* MineKamf */,
 				40505B542A08829B005ECD09 /* MineKamfTests */,
 				40505B5E2A08829B005ECD09 /* MineKamfUITests */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4061F5F82A0B3E940076FEDC /* ShootHimDown.swift in Sources */,
 				40505B472A08829A005ECD09 /* ContentView.swift in Sources */,
 				40505B452A08829A005ECD09 /* MineKamfApp.swift in Sources */,
 				40505B6F2A09F276005ECD09 /* SwiftUIView.swift in Sources */,
